@@ -1,0 +1,11 @@
+@import url(components/forms.css);
+@import url(components/dark-b.css);
+
+html,
+body {
+    height: 100%;
+}
+
+.center {
+    text-align: center !important;
+}
