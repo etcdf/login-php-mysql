@@ -1,0 +1,15 @@
+/* Cor dos icones do Modo escuro */
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+/* // Cor dos icones do Modo escuro */
+
+
+.bd-mode-toggle {
+    z-index: 1500;
+}
+
+.bd-mode-toggle .dropdown-menu .active .bi {
+    display: block !important;
+}
